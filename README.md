@@ -9,7 +9,7 @@ Tenho experiência prática no levantamento de necessidades e requisitos do clie
 
 ---
 ## 📖 Meus principais projetos de código aberto
-- [**Desafio Prático envolvendo dados abertos da ANCINE**](https://github.com/felipeoliveira-feol/dashboards-power-bi/blob/main/README.md)
+- [**Desafio Prático no Power BI envolvendo dados abertos da ANCINE**](https://github.com/felipeoliveira-feol/desafio_power_bi_bd_ancine)
 
 ## 🧰 Tecnologias e Ferramentas
  `Excel`, `PowerBI`, linguagens de programação (`SQL`, `R` e `Python`), `Visual Studio Code`, `Notion`, `Trello`, `Visual Paradigm`, dentre outras.
@@ -20,4 +20,4 @@ Tenho experiência prática no levantamento de necessidades e requisitos do clie
 ## 👤 Contato
 > **[LinkedIn](https://www.linkedin.com/in/felipe-so/)** 
 
-> E-mail: **[felipeoliveira.feol@gmail.com.br](mailto:forlok307@gmail.com.br)**
+> E-mail: **[felipeoliveira.feol@gmail.com.br](mailto:felipeoliveira.feol@gmail.com.br)**
